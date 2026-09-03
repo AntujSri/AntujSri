@@ -4,15 +4,10 @@
       <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
 </picture>
 
-
-<!--
-**AntujSri/AntujSri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 ## About me
 
-- 🔭 I’m currently working on product 
-- 🌱 I’m currently learning github
+🔭 I’m currently working on product 
+🌱 I’m currently learning github
 - 👯 I’m looking to collaborate on product strategies
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
